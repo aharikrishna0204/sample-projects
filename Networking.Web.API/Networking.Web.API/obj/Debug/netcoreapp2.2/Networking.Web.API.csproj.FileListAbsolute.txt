@@ -1,0 +1,17 @@
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\bin\Debug\netcoreapp2.2\Networking.Web.API.deps.json
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\bin\Debug\netcoreapp2.2\Networking.Web.API.runtimeconfig.json
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\bin\Debug\netcoreapp2.2\Networking.Web.API.runtimeconfig.dev.json
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\bin\Debug\netcoreapp2.2\Networking.Web.API.dll
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\bin\Debug\netcoreapp2.2\Networking.Web.API.pdb
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\obj\Debug\netcoreapp2.2\Networking.Web.API.csprojAssemblyReference.cache
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\obj\Debug\netcoreapp2.2\Networking.Web.API.csproj.CoreCompileInputs.cache
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\obj\Debug\netcoreapp2.2\Networking.Web.API.RazorAssemblyInfo.cache
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\obj\Debug\netcoreapp2.2\Networking.Web.API.RazorAssemblyInfo.cs
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\obj\Debug\netcoreapp2.2\Networking.Web.API.AssemblyInfoInputs.cache
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\obj\Debug\netcoreapp2.2\Networking.Web.API.AssemblyInfo.cs
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\obj\Debug\netcoreapp2.2\Networking.Web.API.RazorTargetAssemblyInfo.cache
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\obj\Debug\netcoreapp2.2\Networking.Web.API.dll
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\obj\Debug\netcoreapp2.2\Networking.Web.API.pdb
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\bin\Debug\netcoreapp2.2\Notworking.Service.dll
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\bin\Debug\netcoreapp2.2\Notworking.Service.pdb
+C:\Users\balak\source\repos\Networking.Web.API\Networking.Web.API\obj\Debug\netcoreapp2.2\Networking.Web.API.csproj.CopyComplete

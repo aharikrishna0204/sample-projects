@@ -1,0 +1,9 @@
+C:\Users\balak\source\repos\Networking.Web.API\Notworking.Service\bin\Debug\netcoreapp2.2\Notworking.Service.deps.json
+C:\Users\balak\source\repos\Networking.Web.API\Notworking.Service\bin\Debug\netcoreapp2.2\Notworking.Service.dll
+C:\Users\balak\source\repos\Networking.Web.API\Notworking.Service\bin\Debug\netcoreapp2.2\Notworking.Service.pdb
+C:\Users\balak\source\repos\Networking.Web.API\Notworking.Service\obj\Debug\netcoreapp2.2\Notworking.Service.csprojAssemblyReference.cache
+C:\Users\balak\source\repos\Networking.Web.API\Notworking.Service\obj\Debug\netcoreapp2.2\Notworking.Service.csproj.CoreCompileInputs.cache
+C:\Users\balak\source\repos\Networking.Web.API\Notworking.Service\obj\Debug\netcoreapp2.2\Notworking.Service.AssemblyInfoInputs.cache
+C:\Users\balak\source\repos\Networking.Web.API\Notworking.Service\obj\Debug\netcoreapp2.2\Notworking.Service.AssemblyInfo.cs
+C:\Users\balak\source\repos\Networking.Web.API\Notworking.Service\obj\Debug\netcoreapp2.2\Notworking.Service.dll
+C:\Users\balak\source\repos\Networking.Web.API\Notworking.Service\obj\Debug\netcoreapp2.2\Notworking.Service.pdb
